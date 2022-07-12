@@ -5,6 +5,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <limits.h>
+#include <stdlib.h>
 
 /**
 * struct op - flag / function object
